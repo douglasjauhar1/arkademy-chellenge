@@ -14,23 +14,6 @@ And product.id = cashier.id";
 
 Hasil Interface Soal no 6b
 Bisa langsung kunjungi http://arkademy-statis.rf.gd/
-Home :
 
-
-
-
-
-
-
-
-
-
-
-
-Add :
-
-Edit :
-
-Hapus :
 
 
